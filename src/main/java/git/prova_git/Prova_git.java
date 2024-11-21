@@ -12,6 +12,8 @@ package git.prova_git;
 public class Prova_git {
 
     public static void main(String[] args) {
+        //CIAO ROSA! STAI LEGGENDO?
         System.out.println("Hello World!");
+        System.out.println("La fessa è per fessi");
     }
 }
